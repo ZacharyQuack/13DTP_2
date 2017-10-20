@@ -19,7 +19,7 @@ header{
     background-image: url('../images/booton.png');
     width :29px;
     height: 19px;   
-    padding: 5px;
+    padding: 1px;
     background-position: 50% 50%; 
     background-repeat: no-repeat;
     border: 1px transparent solid;
@@ -128,7 +128,7 @@ li a {
 	padding: 20px 5px;
     text-decoration: none;
 	border-radius: 5px;
-
+	white-space: nowrap
 }
 
 li a:hover {
